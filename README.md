@@ -15,5 +15,5 @@ This research aims to implement [predictive processing](https://royalsocietypubl
 - The precision-weighted modulation of the recognition process also led the model to resist the long-standing problem in machine learning called **catastrophic forgetting**, which is demonstrated by a series of designed numerical experiments.
 - The unique mode of attention-modulated learning by predictive processing paves the way for solving the problems in selective attention (e.g., the [cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)), [theory of expectation](https://direct.mit.edu/books/monograph/1961/Sweet-AnticipationMusic-and-the-Psychology-of), and [theory of mind](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjp.12120).
 
-<img src="Experimental Results/pp.png" style="width:600px">
-<caption><center> Figure 1: Predictive Processing via the Helmholtz Machine. </center></caption>
+<img src="pp.png" style="width:800px">
+<caption><center> Figure 2: Sampled Helmholtz Machine Inference With and Without Predictive Processing. </center></caption>
